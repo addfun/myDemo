@@ -1,2 +1,5 @@
 # myDemo
-a javascript project
+a javascript project demo
+
+#hello world
+hello git
